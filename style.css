@@ -3,7 +3,7 @@ body {
     background: #F1E3E4;
     margin: 0px;
     padding: 0px;
-    display: flex;
+    display: flex; 
     flex-direction: column;
     justify-content: center;
     align-items: center;
